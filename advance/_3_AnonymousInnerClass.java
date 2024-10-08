@@ -4,7 +4,7 @@ class A {
     }
 }
 
-public class AnonymousInnerClass {
+public class _3_AnonymousInnerClass {
     public static void main(String[] args) {
         A obj = new A() {
             // this is an anonymous inner class

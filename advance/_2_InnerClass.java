@@ -19,7 +19,7 @@ class A {
     }
 }
 
-public class InnerClass {
+public class _2_InnerClass {
     public static void main(String[] args) {
         A obj = new A();
         obj.show();

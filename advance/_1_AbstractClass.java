@@ -16,7 +16,7 @@ class B extends A{
         System.out.println("Show in class B");
     }
 }
-public class AbstractClass {
+public class _1_AbstractClass {
     public static void main(String[] args) {
         A obj=new B();
         obj.fun1();

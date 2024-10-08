@@ -18,7 +18,7 @@ enum Friends {
     }
 }
 
-public class EnumClass {
+public class _5_EnumClass {
     public static void main(String[] args) {
         // Friends[] f = Friends.values();
         // System.out.println(Arrays.toString(f));

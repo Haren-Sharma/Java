@@ -15,7 +15,7 @@ class B implements A{
         System.out.println("in show");
     }
 }
-public class InterfaceExample {
+public class _6_InterfaceExample {
     public static void main(String[] args) {
         System.out.println(A.PI);
         A obj=new B();

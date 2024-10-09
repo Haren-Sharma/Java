@@ -1,7 +1,7 @@
 /*
  * Before java 8
  * we have to work extensively with anonomous inner claases for functional interfaces
- * but with lamba expressions code rediability increased and less class files are generated
+ * but with lambda expressions code rediability increased and less class files are generated
  * Lambda expressions only work with functional interfaces
 */
 @FunctionalInterface
